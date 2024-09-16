@@ -1,0 +1,1 @@
+positionForPages[34]={"page":34,"positions":[{"word":"By Fawn","left":0.845145,"top":0.878350,"width":0.078600,"height":0.044487}]};

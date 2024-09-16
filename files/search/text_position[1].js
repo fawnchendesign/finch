@@ -1,0 +1,1 @@
+positionForPages[1]={"page":1,"positions":[{"word":"Style Guide","left":0.705049,"top":0.649647,"width":0.113263,"height":0.044487}]};
